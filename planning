@@ -1,151 +1,18 @@
-Data Structures and Algorithms.
-
-Introduction to Thinking Recursively
-Algorithm Design and Techniques 6w
-Data Structures Fundamentals 6w
-Graph Algorithms 6w
-NP-Complete Algorithms 3w
-String Processing and Pattern Matching Algorithms 4w
-Dynamic Programming: Applications in Machine Learning 4w
-Graph Algorithms in Genome Sequencing 3w
-Capstone 4w
-
-Deep Learning:
-Padhai AI - Guvi Platform
-
-Applied Statitics:
-Discovering Statistics with R
-Probability and Mathematical Statistics-Meyer
-Foundation for Data Science
-
-Machine Learning:
-Applied Predictive Modeling with R
-Feature Engineering and Selection with R Book(Chapter 1 to 9)
-Feature Engineering for Machine Learning
-Feature Engineering and Selection with R Book(Chapter 10 to 12)
-Feature Selection for Machine Learning
-
-
 Machine Learning Engineering:
-Testing and Monitoring for Machine Learning
-Deployment for Machine Learning
-
-Privacy Preserving Deep Learning:
-Practical Deep Learning with PyTorch
-Reinforcement Learning with PyTorch
-Secure and Private AI (Udacity)
-
-Recommender Systems:
-Recommender System and Deep Learning in Python(Udemy)
-
-
-Interview Preparation:
-Stream1:
-Introduction to Recursive Programming(Book)
-Advanced Algorithmics and Graph Theory With Python- Edx
-
-Stream2:
-AlgoExperts - Data Structures
-Algo Experts - Easy, Medium, Hard, Very-Hard, Extremely-Hard
-
-Stream3:
-System Design:
-AlgoExperts - System Design
-
-Stream4:
-https://learn.datacamp.com/skill-tracks/probability-and-distribution-with-r
-https://learn.datacamp.com/skill-tracks/statistics-fundamentals-with-python
-https://learn.datacamp.com/courses/experimental-design-in-python
-https://learn.datacamp.com/courses/practicing-statistics-interview-questions-in-python
-Discovering Statistics in R
-Probability and Mathematical Statistics: Theory, Applications, and Practice in R
-
-Stream5:
-https://learn.datacamp.com/skill-tracks/deep-learning-in-python
-https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python
-https://campus.datacamp.com/courses/customer-analytics-and-ab-testing-in-python
-Applied Predictive Modeling with R
-Feature Engineering and Selection with R Book
-
-Stream6:
-https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python
-R for Marketing Research
-
-Stream7:
-Image Recognition with NN from Scratch - 3hrs
-TF2.0 - 21hrs
-Deep Learning: Advanced Computer Vision - 10 hrs
-Deep Learning: Advanced NLP and RNNs - 8 hrs
-Recommender Systems and Deep Learning - 12 hrs
-Practical DL PyTorch - 6.5 hrs
-Deep Learning: Padhai AI - Guvi Platform
-
+  Testing and Monitoring for Machine Learning
+  Deployment for Machine Learning
 
 https://github.com/partho-maple/coding-interview-gym
 https://github.com/adnanaziz/EPIJudge
-
-Time_Series in Python:
-https://learn.datacamp.com/skill-tracks/time-series-with-python
-
-Data Science for interview:
-Statistics and Probabilities:
-
-Foundations of Probability in R
-Probability and Distribution with R
-Multivariate Probability Distributions in R
-Statistical Inference in R
-Fundamentals of Bayesian Data Analysis in R
-Bayesian Modeling with RJAGS
-Bayesian Regression Modeling with rstanarm
-
-ReinforcementLearning:
-https://www.coursera.org/specializations/reinforcement-learning#courses
-
-Discrete Optimization:
-https://www.coursera.org/learn/discrete-optimization
-
-
-
-Deep Learning:
-
-Deep Learning in Python
-RNN for language modeling
-Image Processing
-
-Supervised Learning:
-
-Introduction to Predictive Analytics in Python
-Intermediate Predictive Analytics in Python
-Marketing Analytics with Python
-Machine Learning Scientist in Python(1,3,4,5,8,10,11)
-
-
-Unsupervised Learning
-Machine Learning Scientist in Python(2,6,7)
-
-Coding:
-Introduction to Recursive Programming(Book
-https://www.educative.io/courses/recursion-for-coding-interviews-in-python
-https://www.educative.io/courses/grokking-the-coding-interview
-https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
-https://www.educative.io/courses/data-structures-coding-interviews-python
-Algoexperts
-
-Statistics:
-Jan, Feb, Mar : Statistics with Python Specialization Coursera
-Apr, May, June : Probabilistic Graphical Models Coursera
-July - Dec : Reinforcement Learning Coursera
 
 https://open.hpi.de/courses/knowledgegraphs2020*
 https://markhneedham.com/blog/2020/01/29/newbie-guide-querying-wikidata/
 https://markhneedham.com/blog/2020/02/02/querying-wikidata-construct-select/
 https://markhneedham.com/blog/2020/02/04/neo4j-enriching-existing-graph-wikidata-sparql-api/
 
-https://learn.datacamp.com/skill-tracks/natural-language-processing-in-python*
-https://learn.datacamp.com/skill-tracks/deep-learning-in-python
-https://learn.datacamp.com/skill-tracks/deep-learning-for-nlp-in-python
 https://github.com/etano/productner
 
+Optional
 Introduction to Neo4j
 Graph Data Modeling for Neo4j
 Importing Data into Neo4j + Spark Connector
@@ -172,7 +39,7 @@ Competitive Programming Stream:
   https://www.educative.io/courses/recursion-for-coding-interviews-in-python
   https://www.educative.io/courses/grokking-the-coding-interview
   https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
-
+  Algoexperts
 
 Data Processing Stream(Flink)
   Functional and Reactive Programming - Java(Udemy)
