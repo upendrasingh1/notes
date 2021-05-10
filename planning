@@ -81,12 +81,13 @@ Machine Learning:
     Integrate the implementation in platform
     
   Machine | Deep Learning:
+    Deep Learning in Python(DataCamp)(20 hrs)
+    NLP in Python(DataCamp)(25 hrs)            (1)
+    Deep Learning for NLP(DataCamp)(12 hrs)    (2)
+    
     Statistics fundamentals in Python(DataCamp)(19 hrs)
     Machine Learning Fundamentals in Python(DataCamp)(20 hrs)
     TimeSeries in Python(DataCamp)(20 hrs)
-    NLP in Python(DataCamp)(25 hrs)        (1)
-    Deep Learning in Python(DataCamp)(20 hrs)
-    Deep Learning for NLP(DataCamp)(12 hrs) (2)
     Image Processing in Python(DataCamp)(12 hrs)
     https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python(28 hrs)
     Python for Marketing Research and Analytics(Book)
@@ -120,6 +121,25 @@ Deep Study:
   Discovery Statistics using R(Book)
   Probability and Mathematical Statistics: Theory, Applications, and Practice in R 
   Stochastic Process(Coursera)
+  
+  ----Plan for May, June, July, Aug, September 2021
+  Below courses will run parallel:
+  1. https://www.coursera.org/specializations/design-experiments(In-Parallel)(16 weeks)
+  2. Bayesian Statistics(1,2,3)
+  3. Reinforcement Learning(22 weeks)
+  4. Deep Learning in Python(DataCamp)(20 hrs)
+     NLP in Python(DataCamp)(25 hrs)            (1)
+     Deep Learning for NLP(DataCamp)(12 hrs)    (2)
+     Advanced Algorithmics and Graph Theory with Python(edx)(6 weeks)
+     https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python(4 hrs)
+     https://learn.datacamp.com/courses/intermediate-network-analysis-in-python(4 hrs)
+  5. Introduction to deep learning with Pytorch(datacamp) (4 hrs)
+     Secure and Private AI (Udacity) (12 hrs)
+     https://www.guvi.in/deep-learning(Pytorch)(112 Hrs)
+     
+
+  
+  
   
 
 
