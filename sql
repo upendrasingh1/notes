@@ -8,3 +8,5 @@ https://medium.com/opendoor-labs/using-postgres-window-functions-to-link-data-ac
 https://towardsdatascience.com/how-to-set-up-a-foreign-data-wrapper-in-postgresql-ebec152827f3
 
 https://github.com/sorrell/age-compose
+
+https://pauloxnet.medium.com/full-text-search-in-django-with-postgresql-4e3584dee4ae
