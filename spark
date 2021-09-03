@@ -123,3 +123,6 @@ https://github.com/lynnlangit/Spark-Scala-EKS
 
 Spark on Kubernetes
 https://levelup.gitconnected.com/spark-on-kubernetes-3d822969f85b
+
+Loading Partitioned Json Data
+https://www.datarchy.tech/code/20200827_load_partitioned_json/
