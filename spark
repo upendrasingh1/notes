@@ -114,6 +114,9 @@ https://thucnc.medium.com/pyspark-in-jupyter-notebook-working-with-dataframe-jdb
 Spark and Elasticsearch:
 https://databricks.com/session/using-spark-and-elasticsearch-for-real-time-data-analysis
 
+Exploiting Schema Inference.
+https://bartoszgajda.com/2020/06/26/exploiting-schema-inference-in-apache-spark/
+
 
 Spark Scala EKS
 https://github.com/lynnlangit/Spark-Scala-EKS
