@@ -103,35 +103,44 @@ API Building:
   https://www.udemy.com/course/web-developer-bootcamp-flask-python/
   https://www.udemy.com/course/advanced-rest-apis-flask-python/
 
-Deep Study:
-  https://www.guvi.in/deep-learning(Pytorch)(112 Hrs)
-  Grokking Deep Learning in Motion(liveBook Manning) + Grokking Deep Learning Book
-  
-  Linear Algebra and Optimization for Machine Learning book(Charu)
-  Neural Networks and Deep Learning(Charu)
+Deep Study(Morning):
   Deep Learning:
-  https://d2l.ai/index.html
   
-  Detailed Plan:
-  LAO(Chapter 1 to 11)
-  D2L.ai Chapter 18, 11
-  NNDL(All Chapters in Sequence)
-  D2L.ai remaining chapters in sequence.
+    (Optional)Grokking Deep Learning in Motion(liveBook Manning) + Grokking Deep Learning Book
+
+    Linear Algebra and Optimization for Machine Learning book(Charu)
+    Neural Networks and Deep Learning(Charu)
+    Deep Learning:
+    https://d2l.ai/index.html
+
+    Detailed Plan:
+    LAO(Chapter 1 to 11)
+    D2L.ai Chapter 18, 11
+    NNDL(All Chapters in Sequence)
+    D2L.ai chapters(1 to 10) in sequence.
+    Machine Learning for Text(Chapter 10-14)
+    D2L.ai chapters(14,15,17) in sequence.
   
   Probability and Statistics:
-  https://www.coursera.org/specializations/design-experiments(In-Parallel)(16 weeks)
   
-  Bayesian Statistics for Beginners(Step by Step Book)
-  Bayesian Statistics: From Concept to Data Analysis(Coursera)(4 weeks)(Section 1,2,3 of above book)
-  Bayesian Statistics: Techniques and Models(Coursera)(5 weeks)(Section 4,5,6 of the above book)
-  Bayesian Statistics: Mixture Models(Coursera)(5 weeks)
-  Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
-  Bayesian Deep Learning:
-  https://www.youtube.com/watch?v=E1qhGw8QxqY
+    https://www.coursera.org/specializations/design-experiments(In-Parallel)(16 weeks)
 
-  Discovery Statistics using R(Book)
-  Probability and Mathematical Statistics: Theory, Applications, and Practice in R 
-  Stochastic Process(Coursera)
+    Bayesian Statistics for Beginners(Step by Step Book)
+    Bayesian Statistics: From Concept to Data Analysis(Coursera)(4 weeks)(Section 1,2,3 of above book)
+    Bayesian Statistics: Techniques and Models(Coursera)(5 weeks)(Section 4,5,6 of the above book)
+    Bayesian Statistics: Mixture Models(Coursera)(5 weeks)
+    Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
+    Bayesian Deep Learning:
+    https://www.youtube.com/watch?v=E1qhGw8QxqY
+
+    (Optional)Discovery Statistics using R(Book)
+    (Optional)Probability and Mathematical Statistics: Theory, Applications, and Practice in R 
+    (Optional)Stochastic Process(Coursera)
+  
+  
+  Practical Learning(During the day):
+  Machine Learning for Text(Charu)(Chapter 1-9)
+  Transfer Learning for Natural Learning Process(book)
   
   ----Plan for May, June, July, Aug, September 2021
   Below courses will run parallel:
