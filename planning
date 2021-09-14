@@ -34,14 +34,6 @@ Programming:
   Design Patterns in Python(Udemy)
   Architecture Patterns in Python(book)
 
-Competitive Programming Stream:
-  Introduction to Recursive Programming(Book)
-  https://www.educative.io/courses/recursion-for-coding-interviews-in-python(7 hrs)
-  https://www.educative.io/courses/grokking-the-coding-interview(50 hrs)
-  https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews(18hrs)
-  https://www.educative.io/path/ace-python-coding-interview(93hrs)
-  Algoexperts
-
 Data Processing Stream(Flink)
   Functional and Reactive Programming - Java(Udemy)
 
@@ -105,10 +97,17 @@ API Building:
   https://www.udemy.com/course/advanced-rest-apis-flask-python/
 
 Deep Study(Morning):
-  Deep Learning:
   
+  Competitive Programming Stream(Theory):
+    Introduction to Recursive Programming(Book)
+    https://www.educative.io/courses/recursion-for-coding-interviews-in-python(7 hrs)
+    https://www.educative.io/courses/grokking-the-coding-interview(50 hrs)
+    https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews(18hrs)
+    https://www.educative.io/path/ace-python-coding-interview(93hrs)
+    Algoexperts
+  
+  Deep Learning(Theory):
     (Optional)Grokking Deep Learning in Motion(liveBook Manning) + Grokking Deep Learning Book
-
     Linear Algebra and Optimization for Machine Learning book(Charu)
     Neural Networks and Deep Learning(Charu)
     Deep Learning:
@@ -122,7 +121,7 @@ Deep Study(Morning):
     Machine Learning for Text(Chapter 10-14)
     D2L.ai chapters(14,15,17) in sequence.
   
-  Probability and Statistics:
+  Probability and Statistics, Machine Learning(Theory):
   
     https://www.coursera.org/specializations/design-experiments(In-Parallel)(16 weeks)
 
@@ -132,17 +131,23 @@ Deep Study(Morning):
     Bayesian Statistics: Mixture Models(Coursera)(5 weeks)
     Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
     https://arxiv.org/abs/1909.06039(This is the final objective of the Bayesian Statistics)
+    Machine Learning: A Probabilistic Perspective(Book)
     Bayesian Deep Learning:
     https://www.youtube.com/watch?v=E1qhGw8QxqY
 
     (Optional)Discovery Statistics using R(Book)
     (Optional)Probability and Mathematical Statistics: Theory, Applications, and Practice in R 
     (Optional)Stochastic Process(Coursera)
-  
-  
-  Practical Learning(During the day):
-  Machine Learning for Text(Charu)(Chapter 1-9)
-  Transfer Learning for Natural Learning Process(book)
+    
+  Reinforcement Learning(Theory):
+    https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf(Complete Series)
+    Reinforcement Learning(22 weeks)
+    Grokking Deep Reinforcement Learing(Deep Learning + Reinforcement Learning)
+    
+    
+ Practical Learning(During the day):
+    Machine Learning for Text(Charu)(Chapter 1-9)
+    Transfer Learning for Natural Learning Process(book)
   
   ----Plan for May, June, July, Aug, September 2021
   Below courses will run parallel:
@@ -156,8 +161,8 @@ Deep Study(Morning):
      https://learn.datacamp.com/courses/bayesian-regression-modeling-with-rstanarm
      Bayesian Statistics(1,2,3)
      
-  3. Reinforcement Learning(22 weeks), before this go through article https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
-  Then, Grokking Deep Reinforcement Learing 
+  3. , before this go through article https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
+  Then,  
   4. Deep Learning in Python(DataCamp)(20 hrs)  (1)(Started)
      NLP in Python(DataCamp)(25 hrs)            (2)
      Deep Learning for NLP(DataCamp)(12 hrs)    (3)
