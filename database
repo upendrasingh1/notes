@@ -34,3 +34,8 @@ http://engineering.grab.com/scaling-like-a-boss-with-presto
 
 EAV Antipattern:
 http://www.sqlservercentral.com/articles/Data+Modeling/95918/
+
+Postgres Performance vacumm:
+https://medium.com/people-ai-engineering/vacuum-your-elephants-improving-postgresql-performance-with-autovacuum-c3aab3593f19
+https://www.percona.com/blog/2018/08/10/tuning-autovacuum-in-postgresql-and-autovacuum-internals/
+
