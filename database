@@ -38,4 +38,6 @@ http://www.sqlservercentral.com/articles/Data+Modeling/95918/
 Postgres Performance vacumm:
 https://medium.com/people-ai-engineering/vacuum-your-elephants-improving-postgresql-performance-with-autovacuum-c3aab3593f19
 https://www.percona.com/blog/2018/08/10/tuning-autovacuum-in-postgresql-and-autovacuum-internals/
-s
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.Autovacuum.html
+https://aws.amazon.com/blogs/database/a-case-study-of-tuning-autovacuum-in-amazon-rds-for-postgresql/
+https://aws.amazon.com/blogs/database/understanding-autovacuum-in-amazon-rds-for-postgresql-environments/
