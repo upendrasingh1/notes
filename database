@@ -42,3 +42,8 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.Commo
 https://aws.amazon.com/blogs/database/a-case-study-of-tuning-autovacuum-in-amazon-rds-for-postgresql/
 https://aws.amazon.com/blogs/database/understanding-autovacuum-in-amazon-rds-for-postgresql-environments/
 https://brandur.org/postgres-connections
+
+https://medium.com/gett-engineering/scaling-postgresql-check-your-vacuum-f03092a6399e
+https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/analyzing-the-limits-of-connection-scalability-in-postgres/ba-p/1757266
+https://user3141592.medium.com/postgres-performance-scripts-99428f6b56d9
+Optimizing trouble shooting vacumm operations pdf
