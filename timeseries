@@ -21,3 +21,5 @@ https://techrando.com/2019/08/23/unsupervised-machine-learning-approaches-for-ou
 https://github.com/nachonavarro/seasonal-esd-anomaly-detection
 https://github.com/callmeashish/Anomaly-Detection-SH-ESD/blob/master/Anomaly%20Detection%20using%20SH-ESD.ipynb
 https://pyod.readthedocs.io/en/latest/_modules/pyod/models/base.html#BaseDetector.predict_proba
+
+https://towardsdatascience.com/anomaly-detection-in-python-part-2-multivariate-unsupervised-methods-and-code-b311a63f298b
