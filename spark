@@ -137,3 +137,6 @@ https://newbedev.com/how-to-use-udf-to-return-multiple-columns
 
 For flattening the nested data
 https://github.com/lvhuyen/SparkAid
+
+Important for Profiling
+https://towardsdatascience.com/profiling-big-data-in-distributed-environment-using-spark-a-pyspark-data-primer-for-machine-78c52d0ce45
