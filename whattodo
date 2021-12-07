@@ -58,3 +58,21 @@ Deep Learning:Advanced NLP and RNNs
         "spark.jars.packages": "org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.0"
     }
 }
+
+stream_detail_df = spark \
+.readStream \
+.format("kafka") \
+.option("kafka.bootstrap.servers", "kafka-internal.segment.local:9092") \
+.option("subscribe", "identity-trait-firehose") \
+.option("startingOffsets", "latest") \
+.load()
+
+from pyspark.sql.functions import col
+query = stream_detail_df \
+.writeStream \
+.format("console") \
+.option("checkpointLocation", "s3://set-reports-sync/identityTweek/checkpoint") \
+.outputMode("update") \
+.start() \
+.awaitTermination()
+
