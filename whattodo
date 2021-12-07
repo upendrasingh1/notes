@@ -49,3 +49,12 @@ Deep Learning: GANS and Variational Autoencoders
 Deep Learning: Advanced Computer Vision
 Deep Learning:Advanced NLP and RNNs
 
+
+
+
+%%configure -f
+{
+    "conf": {
+        "spark.jars.packages": "org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.0"
+    }
+}
