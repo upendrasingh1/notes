@@ -53,16 +53,10 @@ Machine Learning:
     https://learn.datacamp.com/courses/bayesian-regression-modeling-with-rstanarm
     Applied Predictive Modeling with R(Book)
     Feature Engineering and Selection with R(Book)
-    R for Marketing Research and Analytics (Book)
+    
     
    
-   Reinforcement Learning: 
-    Reinforcement Learning Specialization(Coursera) + RLBook2018(Stutton)(22 weeks)
-    Reinforcement Learning(Udemy)(Optional)
-    Grokking Deep Reinforcement Learning by Miguel Morales(Book)
-    Deep Reinforcement Learning in Action(Book)
-    Advanced AI: Deep Reinforcement Learning(Udemy)
-    Cutting Edge AI: Deep Reinforcement Learning(Udemy)
+   
         
     Code up the Focused Crawling Paper
     Integrate the implementation in platform
@@ -77,7 +71,7 @@ Machine Learning:
     TimeSeries in Python(DataCamp)(20 hrs)
     Image Processing in Python(DataCamp)(12 hrs)
     https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python(28 hrs)
-    Python for Marketing Research and Analytics(Book)
+   
    
   
 API Building:
@@ -121,13 +115,10 @@ Deep Study(Morning):
   
     https://www.coursera.org/specializations/design-experiments(In-Parallel)(16 weeks)
 
-    Bayesian Statistics for Beginners(Step by Step Book)
-    Bayesian Statistics: From Concept to Data Analysis(Coursera)(4 weeks)(Section 1,2,3 of above book)
-    Bayesian Statistics: Techniques and Models(Coursera)(5 weeks)(Section 4,5,6 of the above book)
-    Bayesian Statistics: Mixture Models(Coursera)(5 weeks)
+    
     Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
-    https://arxiv.org/abs/1909.06039(This is the final objective of the Bayesian Statistics)
-    Machine Learning: A Probabilistic Perspective(Book)
+    
+    
     Bayesian Deep Learning:
     https://www.youtube.com/watch?v=E1qhGw8QxqY
 
@@ -187,12 +178,33 @@ Deep Study(Morning):
   Bayesian Analysis:
   Data Scientist with R(DataCamp)(88 hrs)
   Statistician with R(DataCamp)(108 hrs)
-  Bayesian Statistics(1,2,3)(Coursera)
+  Bayesian Statistics for Beginners(Step by Step Book)
+  Bayesian Statistics: From Concept to Data Analysis(Coursera)(4 weeks)(Section 1,2,3 of above book)
+  Bayesian Statistics: Techniques and Models(Coursera)(5 weeks)(Section 4,5,6 of the above book)
+  Bayesian Statistics: Mixture Models(Coursera)(5 weeks)
+  Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
+  https://arxiv.org/abs/1909.06039(This is the final objective of the Bayesian Statistics)
   
-     
-
+  Machine Learning:
+  Data Scientist With Python(DataCamp)
+  Machine Learning Scientist with Python(DataCamp)
+  Machine Learning: A Probabilistic Perspective(Book)
   
+  Marketing Analytics:
+  Marketing Analytics with Python(DataCamp)
+  Python for Marketing Research and Analytics(Book)
+  R for Marketing Research and Analytics (Book)
   
+  Reinforcement Learning:
+  https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf(Complete Series)
+  Reinforcement Learning Specialization(Coursera) + RLBook2018(Stutton)(22 weeks)
+  Reinforcement Learning(Udemy)(Optional)
+  Grokking Deep Reinforcement Learning by Miguel Morales(Book)
+  Deep Reinforcement Learning in Action(Book)
+  Advanced AI: Deep Reinforcement Learning(Udemy)
+  Cutting Edge AI: Deep Reinforcement Learning(Udemy)
+  
+    
   Key Skills:
   
   Various Problem Spaces Worked Upon: Web Mining, Knowledge Graph(Creation and Augmentation), Probabilistic Deduplication, Unified Customer Profile,  
