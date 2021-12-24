@@ -185,7 +185,21 @@ Deep Study(Morning):
   
   
   Key Skills:
-  ML Techniques: Deep Learning(Tensorflow, Pytorch using Keras API), Enitity ,Relationionship Extraction, 
+  
+  Various Problem Spaces Worked Upon: Web Mining, Knowledge Graph(Creation and Augmentation), Probabilistic Deduplication, Unified Customer Profile,  
+  Time Series Forecasting, Anomaly Detection and RCA(Explainability) for IoT, Sentiment Analysis, Analyzing Marketing Campaigns, Analyze Social Media, 
+  Market basket Analysis, Customer Lifetime Value, Churn Analysis, Customer Segmentation, AB Testing.
+  
+  Various ML/DL Techniques Used: Machine Learning, Clustering, Network Analysis, Deep Learning(Tensorflow, Pytorch using Keras API), NLP using Deep Learning,
+  NER, Relationionship Extraction, Reinforcement Learning, Bayesian Analysis
+   
+  Solutions deployed in Production Using:
+  MLOps Frameworks: MLFlow, Seldon
+  Data Engineering and Orchestration Frameworks: Spark(Batch and Streaming), Kafka, Airflow, FastAPI, Flask
+  
+  Programming Languages used: Scala, Python, R and C++
+  
+  Cloud Provider Experience: AWS, GCP
 
 
 
