@@ -6,3 +6,7 @@ https://github.com/gonum/gonum
 https://github.com/go-gota/gota
 
 https://github.com/gopherdata/gophernotes
+
+
+Go Map and Reduce
+https://github.com/chrislusf/gleam
