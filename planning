@@ -185,6 +185,9 @@ Deep Study(Morning):
     Machine Learning(Theory):
     Machine Learning: A Probabilistic Perspective(Book)
 
+    Time Series Forecasting and Anomaly Detection(Practical):
+    https://www.udemy.com/course/time-series-analysis/
+    
     Marketing Analytics(Practical):
     Marketing Analytics with Python(DataCamp)
     
@@ -193,9 +196,11 @@ Deep Study(Morning):
     R for Marketing Research and Analytics (Book)
   
   Stream: Bayesian analysis + Reinforcement Learning
-    Bayesian Analysis:
+    Bayesian Analysis(Practical):
     Data Scientist with R(DataCamp)(88 hrs)
     Statistician with R(DataCamp)(108 hrs)
+    
+    Bayesian Analysis(Theory):
     Bayesian Statistics for Beginners(Step by Step Book)
     Bayesian Statistics: From Concept to Data Analysis(Coursera)(4 weeks)(Section 1,2,3 of above book)
     Bayesian Statistics: Techniques and Models(Coursera)(5 weeks)(Section 4,5,6 of the above book)
@@ -203,11 +208,12 @@ Deep Study(Morning):
     Probabilistic Graphical Models:(Specialization: Coursera) (4-5 months)
     https://arxiv.org/abs/1909.06039(This is the final objective of the Bayesian Statistics)
 
-    Reinforcement Learning:
+    Reinforcement Learning(Practical):
     https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/
     https://www.udemy.com/course/deep-reinforcement-learning-in-python/
     https://www.udemy.com/course/cutting-edge-artificial-intelligence/
 
+    Reinforcement Learning(Thoery)
     https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf(Complete Series)
     Reinforcement Learning Specialization(Coursera) + RLBook2018(Stutton)(22 weeks)
     Grokking Deep Reinforcement Learning by Miguel Morales(Book)
