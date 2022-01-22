@@ -153,3 +153,6 @@ https://www.programmerall.com/article/62421770736/
 https://stackoverflow.com/questions/48361177/spark-structured-streaming-kafka-convert-json-without-schema-infer-schema
 
 https://medium.com/@msantino/how-to-install-additional-jar-packages-on-jupyter-notebook-running-on-aws-emr-4563d6eea68
+
+Spark Sanza
+https://github.com/SANSA-Stack/SANSA-Stack/blob/develop/sansa-examples/sansa-examples-spark/src/main/scala/net/sansa_stack/examples/spark/query/DataLake.scala
