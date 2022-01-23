@@ -1,29 +1,5 @@
-Machine Learning Engineering:
-  Testing and Monitoring for Machine Learning
-  Deployment for Machine Learning
-
-https://github.com/partho-maple/coding-interview-gym
-https://github.com/adnanaziz/EPIJudge
-
-https://open.hpi.de/courses/knowledgegraphs2020*
-https://markhneedham.com/blog/2020/01/29/newbie-guide-querying-wikidata/
-https://markhneedham.com/blog/2020/02/02/querying-wikidata-construct-select/
-https://markhneedham.com/blog/2020/02/04/neo4j-enriching-existing-graph-wikidata-sparql-api/
-
 https://github.com/etano/productner
 
-Optional
-Introduction to Neo4j
-Graph Data Modeling for Neo4j
-Importing Data into Neo4j + Spark Connector
-Implementing Graph Data Models in Neo4j
-Basic Neo4j Administration
-Cypher query tuning in Neo4j
-Introduction to Graph Algorithms in Neo4j
-Using a Machine Learning Workflow for Link Prediction
-Applied Graph Data Science for web application
-
-------------------------------------------------------------------------------------------------------------------------------
 Programming:
   Python Programming Stream:
   The Python JourneyMan
@@ -34,57 +10,6 @@ Programming:
   Design Patterns in Python(Udemy)
   Architecture Patterns in Python(book)
 
-Data Processing Stream(Flink)
-  Functional and Reactive Programming - Java(Udemy)
-
-Privacy Preserving Deep Learning:
-  Introduction to deep learning with Pytorch(datacamp)
-  Secure and Private AI (Udacity)
-
-Machine Learning:
-     
-    
-  Statistics + ML Stream:
-    https://learn.datacamp.com/skill-tracks/probability-and-distribution-with-r
-    https://learn.datacamp.com/skill-tracks/learn-statistics-with-r
-    https://learn.datacamp.com/skill-tracks/statistical-inference-with-r
-    https://learn.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r
-    https://learn.datacamp.com/courses/bayesian-modeling-with-rjags
-    https://learn.datacamp.com/courses/bayesian-regression-modeling-with-rstanarm
-    Applied Predictive Modeling with R(Book)
-    Feature Engineering and Selection with R(Book)
-    
-    
-   
-   
-        
-    Code up the Focused Crawling Paper
-    Integrate the implementation in platform
-    
-  Machine | Deep Learning:
-    Deep Learning in Python(DataCamp)(20 hrs)
-    NLP in Python(DataCamp)(25 hrs)            (1)
-    Deep Learning for NLP(DataCamp)(12 hrs)    (2)
-    
-    Statistics fundamentals in Python(DataCamp)(19 hrs)
-    Machine Learning Fundamentals in Python(DataCamp)(20 hrs)
-    TimeSeries in Python(DataCamp)(20 hrs)
-    Image Processing in Python(DataCamp)(12 hrs)
-    https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python(28 hrs)
-   
-   
-  
-API Building:
-  https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash
-  
-  Introduction to Dash Bootstrap - Styling your App
-  https://www.youtube.com/watch?v=vqVwpL4bGKY
-
-  Complete Guide to Bootstrap Dashboard Apps - Dash Plotly
-  https://www.youtube.com/watch?v=0mfIK8zxUds
-  
-  https://www.udemy.com/course/web-developer-bootcamp-flask-python/
-  https://www.udemy.com/course/advanced-rest-apis-flask-python/
 
 Deep Study(Morning):
   
