@@ -156,3 +156,5 @@ https://medium.com/@msantino/how-to-install-additional-jar-packages-on-jupyter-n
 
 Spark Sanza
 https://github.com/SANSA-Stack/SANSA-Stack/blob/develop/sansa-examples/sansa-examples-spark/src/main/scala/net/sansa_stack/examples/spark/query/DataLake.scala
+
+https://medium.com/data-arena/merging-different-schemas-in-apache-spark-2a9caca2c5ce
