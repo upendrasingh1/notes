@@ -12,3 +12,5 @@ Go Map and Reduce
 https://github.com/chrislusf/gleam
 
 https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b
+
+https://github.com/hibiken/asynq
