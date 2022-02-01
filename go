@@ -20,3 +20,4 @@ https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html
 
 https://aws.amazon.com/blogs/compute/using-self-hosted-apache-kafka-as-an-event-source-for-aws-lambda/
 https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html#invocation-eventsourcemapping-batching
+https://www.saurabhthakur.dev/how-to-throttle-that-queue
