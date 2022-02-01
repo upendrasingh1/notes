@@ -14,3 +14,9 @@ https://github.com/chrislusf/gleam
 https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b
 
 https://github.com/hibiken/asynq
+
+Using Lambda With Self Managed Kafka
+https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html
+
+https://aws.amazon.com/blogs/compute/using-self-hosted-apache-kafka-as-an-event-source-for-aws-lambda/
+https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html#invocation-eventsourcemapping-batching
