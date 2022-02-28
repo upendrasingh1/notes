@@ -221,7 +221,15 @@ Deep Study(Morning):
       https://app.datacamp.com/learn/courses/inference-for-linear-regression-in-r(4hr)
       https://www.udemy.com/course/causal-data-science(5hr)
   
-  Stream4(Dynamic Programming + Greedy Algorithms + Miscellaneous)(87 Challenges):
+  Stream4
+      SubStream 1(Recursion + Graph Algorithms + BT + BST + Heaps)(138 Challenges):
+      https://www.educative.io/courses/grokking-the-coding-interview Pattern(8,9,10,11,12,17) (Started Pattern 8)
+      https://www.educative.io/module/data-structures-algorithms-in-python(7,8,9,10)
+      https://www.educative.io/module/algorithms-in-python(4, 7)
+      https://www.educative.io/module/recursion-in-python
+      https://www.algoexpert.io/questions(BST, BT, Graphs,Heaps, Recursion)
+      
+      SubStream 2:(Dynamic Programming + Greedy Algorithms + Miscellaneous)(87 Challenges):
       https://www.educative.io/courses/grokking-the-coding-interview Pattern(16)
       https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews(18hrs)(36 Challenges)
       Algoexperts: Dynamic Programming(19 Challenges)
@@ -229,23 +237,14 @@ Deep Study(Morning):
       https://www.educative.io/module/algorithms-in-python(5,6)
       https://www.algoexpert.io/questions(Greedy)
       
-  
-  Stream5(Recursion + Graph Algorithms + BT + BST + Heaps)(138 Challenges):
-      https://www.educative.io/courses/grokking-the-coding-interview Pattern(8,9,10,11,12,17) (Started Pattern 8)
-      https://www.educative.io/module/data-structures-algorithms-in-python(7,8,9,10)
-      https://www.educative.io/module/algorithms-in-python(4, 7)
-      https://www.educative.io/module/recursion-in-python
-      https://www.algoexpert.io/questions(BST, BT, Graphs,Heaps, Recursion)
-      
-      
-  Stream6(Arrays + Searching + Sorting)(125 Challenges):
+  Stream5
+      SubStream 1(Arrays + Searching + Sorting)(125 Challenges):
       https://www.educative.io/courses/grokking-the-coding-interview Pattern(2,3,4,5,6,13,14,15)
       https://www.educative.io/module/data-structures-algorithms-in-python(6)
       https://www.educative.io/module/algorithms-in-python(3)
       https://www.algoexpert.io/questions(Arrays, Searching, Sorting)
-  
-  
-  Stream7(LinkedList + Stacks + Strings + Tries)(86 Challenges):
+    
+      SubStream 2(LinkedList + Stacks + Strings + Tries)(86 Challenges):
       https://www.educative.io/courses/grokking-the-coding-interview Pattern(7)
       https://www.educative.io/module/data-structures-algorithms-in-python(2,3,4,5,11)
       https://www.educative.io/module/algorithms-in-python(2)
