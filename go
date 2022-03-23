@@ -23,3 +23,6 @@ https://docs.aws.amazon.com/lambda/latest/dg/invocation-eventsourcemapping.html#
 https://www.saurabhthakur.dev/how-to-throttle-that-queue
 
 https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/
+
+https://medium.com/analytics-vidhya/running-go-code-from-python-a65b3ae34a2d
+https://github.com/andreiavrammsd/cgo-examples/blob/master/main.go
