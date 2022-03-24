@@ -161,3 +161,6 @@ https://medium.com/data-arena/merging-different-schemas-in-apache-spark-2a9caca2
 
 List of Connectors and Spark Utilities
 https://github.com/awesome-spark/awesome-spark
+
+https://towardsdatascience.com/slowly-changing-dimension-type-2-in-spark-7d5865ac915b
+https://github.com/TomasPel/BlogPosts/tree/master/slowly_changing_dimension
