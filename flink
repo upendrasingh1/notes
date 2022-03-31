@@ -74,3 +74,5 @@ https://github.com/apache/flink/blob/master/flink-end-to-end-tests/flink-conflue
 Realtime Datawarehouse 
 https://www.alibabacloud.com/blog/meituan-dianpings-use-of-flink-based-real-time-data-warehouse-platforms_596677?spm=a2c65.11461447.0.0.1f1f319a2EVsEf
 https://www.alibabacloud.com/blog/evolution-of-the-real-time-data-warehouses-of-the-alibaba-search-and-recommendation-data-platform_596816?spm=a2c65.11461447.0.0.3f4517b86RkYUN
+
+https://github.com/ververica/flink-sql-gateway
