@@ -329,3 +329,9 @@ https://www.youtube.com/watch?v=LALfQStONEc
 
 https://towardsdatascience.com/deduplication-deduplication-1d1414ffb4d2
 https://roman-kazinnik.medium.com/active-learning-end-to-end-deduplication-50cc9df741a4
+
+Entity Resolution using Spark:
+https://github.com/ing-bank/spark-matcher    (Active Learning Approach)
+https://github.com/moj-analytical-services/splink (Unsupervised Approach)
+https://github.com/a-wars/AGIW_DeepER  (Deep Learning Approach)
+
