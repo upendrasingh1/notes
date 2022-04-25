@@ -1,3 +1,129 @@
 https://blogs.halodoc.io/key-learnings-on-using-apache-hudi-in-building-lakehouse-architecture-halodoc/
 
 https://github.com/a0x8o/hudi/blob/master/hudi-spark/src/test/java/HoodieJavaStreamingApp.java
+
+import com.mycompany.demos.DemoEvent
+import com.mycompany.demo.utils.GenericApp
+import com.mycompany.demo.utils.Helpers._
+import org.apache.hudi.DataSourceWriteOptions.{HIVE_STYLE_PARTITIONING_OPT_KEY, PARTITIONPATH_FIELD_OPT_KEY, PRECOMBINE_FIELD_OPT_KEY, RECORDKEY_FIELD_OPT_KEY, TABLE_NAME_OPT_KEY, TABLE_TYPE_OPT_KEY}
+import org.apache.hudi.config.HoodieWriteConfig.TABLE_NAME
+import org.apache.spark.sql.execution.streaming.ProcessingTimeTrigger
+import org.apache.spark.sql.streaming.Trigger
+import org.apache.spark.sql.streaming.OutputMode
+import org.apache.spark.sql.streaming.StreamingQuery
+import org.apache.spark.sql.streaming.Trigger
+import org.apache.spark.sql.{DataFrame, SaveMode, functions => F}
+import scalapb.spark.Implicits._
+import scalapb.spark.ProtoSQL
+
+import java.time.LocalDateTime
+
+
+object ProcessorApp extends GenericApp {
+
+  override val appName: String = "processor"
+
+  log.info("Starting the generator")
+  log.info(s"Generator config: ${appConfig.toJson}")
+
+  val parseValue = ProtoSQL.udf { bytes: Array[Byte] => DemoEvent.parseFrom(bytes) }
+
+  val sourceStream = spark
+    .readStream
+    .withKafkaOptions(appConfig.getConfig("inputs.kafka"))
+    .load()
+
+  val transformedStream = sourceStream
+    .select("topic", "partition", "timestamp", "offset", "key", "value")
+    .withColumn("value", parseValue(F.col("value")))
+    .selectExpr(
+      "topic as kafka_topic",
+      "CAST(partition AS STRING) kafka_partition",
+      "cast(timestamp as String) kafka_timestamp",
+      "CAST(offset AS STRING) kafka_offset",
+      "CAST(key AS STRING) kafka_key",
+      "value as kafka_value",
+      "current_timestamp() current_time",
+    )
+    .selectExpr(
+      "kafka_topic",
+      "concat(kafka_partition,'-',kafka_offset) kafka_partition_offset",
+      "kafka_offset",
+      "kafka_timestamp",
+      "kafka_key",
+      "kafka_value",
+      "substr(current_time,1,10) partition_date"
+    )
+    .toDF()
+
+  transformedStream.printSchema()
+  // print to console
+  //  val query = transformedStream.writeStream
+  //    .outputMode("append")
+  //    .option("truncate", false)
+  //    .format("console")
+  //    .start()
+
+
+  // Create and start query
+//  val query = transformedStream
+//    .writeStream
+//    .queryName("demo")
+//    .foreachBatch { (batchDF: DataFrame, batchId: Long) =>
+//      batchDF.persist()
+//
+//      println(LocalDateTime.now() + "start writing cow table")
+//      batchDF.write.format("org.apache.hudi")
+//        .option(TABLE_TYPE_OPT_KEY, "COPY_ON_WRITE")
+//        .option(PRECOMBINE_FIELD_OPT_KEY, "kafka_timestamp")
+//        // Use kafka partition and offset as combined primary key
+//        .option(RECORDKEY_FIELD_OPT_KEY, "kafka_partition_offset")
+//        // Partition with current date
+//        .option(PARTITIONPATH_FIELD_OPT_KEY, "partition_date")
+//        .option(TABLE_NAME, "copy_on_write_table")
+//        .option(HIVE_STYLE_PARTITIONING_OPT_KEY, true)
+//        .mode(SaveMode.Append)
+//        .save("/tmp/sparkHudi/COPY_ON_WRITE")
+//
+//      println(LocalDateTime.now() + "start writing mor table")
+//      batchDF.write.format("org.apache.hudi")
+//        .option(TABLE_TYPE_OPT_KEY, "MERGE_ON_READ")
+//        .option(PRECOMBINE_FIELD_OPT_KEY, "kafka_timestamp")
+//        .option(RECORDKEY_FIELD_OPT_KEY, "kafka_partition_offset")
+//        .option(PARTITIONPATH_FIELD_OPT_KEY, "partition_date")
+//        .option(TABLE_NAME, "merge_on_read_table")
+//        .option(HIVE_STYLE_PARTITIONING_OPT_KEY, true)
+//        .mode(SaveMode.Append)
+//        .save("/tmp/sparkHudi/MERGE_ON_READ")
+//
+//      println(LocalDateTime.now() + "finish")
+//      batchDF.unpersist()
+//      ()
+//    }
+//    .option("checkpointLocation", "/tmp/sparkHudi/checkpoint/")
+//    .start()
+//
+//  query.processAllAvailable()
+//  query.stop()
+
+  val writer = transformedStream
+    .writeStream
+    .format("org.apache.hudi")
+    .option(TABLE_TYPE_OPT_KEY, "COPY_ON_WRITE")
+    .option(PRECOMBINE_FIELD_OPT_KEY, "kafka_timestamp")
+    // Use kafka partition and offset as combined primary key
+    .option(RECORDKEY_FIELD_OPT_KEY, "kafka_partition_offset")
+    // Partition with current date
+    .option(PARTITIONPATH_FIELD_OPT_KEY, "partition_date")
+    .option(TABLE_NAME, "copy_on_write_table")
+    .option(HIVE_STYLE_PARTITIONING_OPT_KEY, true)
+    .option("checkpointLocation", "/tmp/sparkHudi/checkpoint/")
+    .outputMode(OutputMode.Append())
+
+  val query: StreamingQuery = writer.trigger(Trigger.ProcessingTime("5 seconds")).start("/tmp/sparkHudi/COPY_ON_WRITE")
+  query.awaitTermination()
+
+
+  log.info("Processor app gracefully finished")
+
+}
