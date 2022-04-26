@@ -1,4 +1,7 @@
 https://blogs.halodoc.io/key-learnings-on-using-apache-hudi-in-building-lakehouse-architecture-halodoc/
 
+Hive Sync
+https://github.com/apache/hudi/issues/3954
+
 https://github.com/a0x8o/hudi/blob/master/hudi-spark/src/test/java/HoodieJavaStreamingApp.java
 
