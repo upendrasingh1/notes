@@ -10,3 +10,8 @@ https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-hudi-work-with-dataset.h
 https://aws.amazon.com/blogs/big-data/writing-to-apache-hudi-tables-using-aws-glue-connector/
 https://www.dremio.com/subsurface/best-practices-for-building-a-scalable-and-secure-data-lake-on-aws/
 
+https://medium.com/@parth09/apache-hudi-the-basics-5c1848ca12e0
+https://medium.com/apache-hudi-blogs/employing-the-right-indexes-for-fast-updates-deletes-in-apache-hudi-814d863635f6
+https://medium.com/@parth09/hourly-olaps-infinite-playback-event-streams-62777aefa8b0
+https://medium.com/@parth09/hudifying-the-datalake-daily-batch-e7b3d7ec8229
+
