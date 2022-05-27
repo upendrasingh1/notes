@@ -179,4 +179,7 @@ https://www.youtube.com/watch?v=Fekx4h5A0Xo
 
 https://medium.com/pinterest-engineering/interactive-querying-with-apache-spark-sql-at-pinterest-2a3eaf60ac1b
 
+Streaming Spark Session inside foreachBatch:
+https://medium.com/analytics-vidhya/spark-session-and-the-singleton-misconception-1aa0eb06535a
+
 
