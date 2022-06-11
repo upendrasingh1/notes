@@ -184,4 +184,7 @@ https://medium.com/analytics-vidhya/spark-session-and-the-singleton-misconceptio
 
 https://developer.hpe.com/blog/spark-data-source-api-extending-our-spark-sql-query-engine/
 
+Spark Streaming Monitoring
+https://github.com/awslabs/aws-cloudwatch-metrics-custom-spark-listener/blob/master/src/main/scala/com/amazonaws/awslabs/sparkstreaming/SparkKafkaExample.scala
+
 
