@@ -187,4 +187,5 @@ https://developer.hpe.com/blog/spark-data-source-api-extending-our-spark-sql-que
 Spark Streaming Monitoring
 https://github.com/awslabs/aws-cloudwatch-metrics-custom-spark-listener/blob/master/src/main/scala/com/amazonaws/awslabs/sparkstreaming/SparkKafkaExample.scala
 
+https://vincent.doba.fr/posts/20211005_spark_json_schema_aggregator/
 
