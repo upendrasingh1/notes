@@ -77,3 +77,7 @@ https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-far
 Keyword-Attentive Deep Semantic Matching
 https://github.com/DataTerminatorX/Keyword-BERT
 https://arxiv.org/pdf/2003.11516.pdf
+
+ZeroShotLearning
+https://github.com/amzn/zero-shot-rlhr
+https://www.amazon.science/publications/improving-pretrained-models-for-zero-shot-multi-label-text-classification-through-reinforced-label-hierarchy-reasoning
