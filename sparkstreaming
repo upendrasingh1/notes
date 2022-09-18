@@ -2,3 +2,5 @@ https://medium.com/softwaresanders/productionalizing-spark-streaming-application
 https://aws.amazon.com/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/
 
 https://barrelsofdata.com/data-deduplication-spark-state-store/
+
+https://github.com/HeartSaVioR/spark-sql-kafka-offset-committer
