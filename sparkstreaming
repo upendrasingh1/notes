@@ -8,3 +8,6 @@ https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-
 https://github.com/datastax/code-samples/blob/master/spark_kafka_streaming/streaming/src/main/scala/sparkKafkaDemo/StreamingDirectEmails.scala
 
 https://blog.stratio.com/optimizing-spark-streaming-applications-apache-kafka/
+
+(Important yarn constants in EMR)
+https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-hadoop-task-config.html#emr-hadoop-task-config-m3
