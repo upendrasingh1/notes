@@ -5,3 +5,4 @@ https://barrelsofdata.com/data-deduplication-spark-state-store/
 
 https://github.com/HeartSaVioR/spark-sql-kafka-offset-committer
 https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0
+https://github.com/datastax/code-samples/blob/master/spark_kafka_streaming/streaming/src/main/scala/sparkKafkaDemo/StreamingDirectEmails.scala
