@@ -345,3 +345,6 @@ Text Classification Bert:
 https://github.com/nlptown/nlp-notebooks/blob/master/Text%20classification%20with%20BERT%20in%20PyTorch.ipynb
 
 https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7fc0
+
+Categorical Anomal Detection:
+https://github.com/wlazarz/outliers
