@@ -6,7 +6,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8487677/#R27
 https://github.com/vintasoftware/entity-embed
 
 https://dbs.uni-leipzig.de/research/projects/object_matching/famer
+
+Spark:
 https://github.com/TariqAbughofa/incremental_distributed_wcc
+
+Flink:
+https://github.com/brasileiroaraujo/ER_Streaming
+
+Akka:
+https://github.com/UniStuttgart-DataEngineering/progressive-incremental-er
 
 IdentityGraph using Flink:
 https://www.youtube.com/watch?v=9x5kkw5LzsQ
