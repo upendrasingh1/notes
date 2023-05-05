@@ -32,4 +32,7 @@ https://www.databricks.com/notebooks/recommenders/cn_02c_determine_category_simi
 Merge Schema
 https://gist.github.com/eduardorost/82f0640d6eed50406285c3d393897414
 
+Accept Any Schema:
+https://github.com/apache/iceberg/issues/2040
+
 
