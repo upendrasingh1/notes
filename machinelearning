@@ -348,3 +348,6 @@ https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7f
 
 Categorical Anomal Detection:
 https://github.com/wlazarz/outliers
+
+Contextual Outlier Detection:
+https://pkghosh.wordpress.com/2018/09/18/contextual-outlier-detection-with-statistical-modeling-on-spark/
