@@ -200,3 +200,5 @@ https://www.linkedin.com/pulse/enable-back-pressure-make-your-spark-streaming-pr
 https://github.com/henrikbulldog/spark.org.anonymizer
 
 https://medium.com/globant/how-to-solve-a-large-number-of-small-files-problem-in-spark-21f819eb36d3
+
+https://richardstartin.github.io/posts/tuning-spark-back-pressure-by-simulation
