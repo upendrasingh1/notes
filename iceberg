@@ -39,4 +39,7 @@ https://www.dremio.com/blog/comparison-of-data-lake-table-formats-apache-iceberg
 
 https://www.dremio.com/blog/compaction-in-apache-iceberg-fine-tuning-your-iceberg-tables-data-files/
 
+Optimizing merge operations
+https://medium.com/datamindedbe/upserting-data-using-spark-and-iceberg-9e7b957494cf
+
 
