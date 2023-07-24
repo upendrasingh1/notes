@@ -18,3 +18,6 @@ https://gist.github.com/meysampg/b09e1946113c162221cb4bd24f05a0c0
 https://blog.cads.live/gracefully-stop-spark-structured-streaming-jobs-on-yarn/#:~:text=A%20graceful%20shutdown%20means%20completing,duplicate%20data%20upon%20stream%20restart.
 
 https://github.com/aws-samples/spark-streaming-sql-s3-connector
+
+https://yurita.readthedocs.io/en/latest/
+https://github.com/paypal/yurita
