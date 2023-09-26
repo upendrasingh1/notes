@@ -32,3 +32,7 @@ https://towardsdatascience.com/root-cause-analysis-of-it-incidents-based-on-corr
 https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46
 
 https://ruslanmv.com/blog/Outlier-Detection-in-Pyspark
+
+To simulate real world data:
+https://www.databricks.com/blog/2023/04/12/synthetic-data-better-machine-learning.html
+https://docs.sdv.dev/sdv/
