@@ -299,6 +299,9 @@ Entity Resolution
 Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
 Extend: https://github.com/megagonlabs/ditto
 
+Deep Learning for Blocking in Entity Matching:
+https://github.com/qcri/DeepBlocker/tree/main
+
 LargeLanguageModels
 LLM Application Through Production
 LLM Foundation Models From Ground Up
