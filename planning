@@ -309,9 +309,20 @@ Fellengi-Sunter Model:
 Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
 
 
-Deep Learning for Blocking in Entity Matching:
+Deep Learning:
+Hands-On:
+
+Theory:
+
+
+Deep Learning Application1:
+Entity Resolution
 Extend: https://github.com/megagonlabs/ditto
 https://github.com/qcri/DeepBlocker/tree/main
+
+Deep Learning Application2:
+Conversation AI:
+Text2SQL:
 
 LargeLanguageModels
 LLM Application Through Production
