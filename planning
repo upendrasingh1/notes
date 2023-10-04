@@ -284,22 +284,33 @@ Deep Study(Morning):
 Planning 3/9/2023:
 
 Learning Streams:
+Hands-On:
+https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python
+https://app.datacamp.com/learn/courses/foundations-of-probability-in-python
+https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python
 https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/
+Theory:
 Bayesian Statistics the fun way
 Bayesian Statistics for beginners
 Doing bayesian Data Analysis
 
 Machine Learning(Probabilistic and Advanced)
+Hands-on:
 https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/
 https://www.udemy.com/course/feature-selection-for-machine-learning/
 https://www.udemy.com/course/feature-engineering-for-machine-learning/
 https://www.udemy.com/course/machine-learning-with-imbalanced-data/
+Theory:
+Probabilistic Machine Learning: Murphy
 
-Entity Resolution
+Entity Resolution:
+Understand Splink Inside Out:
+Fellengi-Sunter Model: 
 Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
-Extend: https://github.com/megagonlabs/ditto
+
 
 Deep Learning for Blocking in Entity Matching:
+Extend: https://github.com/megagonlabs/ditto
 https://github.com/qcri/DeepBlocker/tree/main
 
 LargeLanguageModels
