@@ -284,6 +284,7 @@ Deep Study(Morning):
 Planning 3/9/2023:
 
 Learning Streams:
+1. Statistics:
 Hands-On:
 https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python
 https://app.datacamp.com/learn/courses/foundations-of-probability-in-python
@@ -294,7 +295,7 @@ Bayesian Statistics the fun way
 Bayesian Statistics for beginners
 Doing bayesian Data Analysis
 
-Machine Learning(Probabilistic and Advanced)
+2. Machine Learning(Probabilistic and Advanced)
 Hands-on:
 https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/
 https://www.udemy.com/course/feature-selection-for-machine-learning/
@@ -303,13 +304,13 @@ https://www.udemy.com/course/machine-learning-with-imbalanced-data/
 Theory:
 Probabilistic Machine Learning: Murphy
 
-Entity Resolution:
+3. Entity Resolution:
 Understand Splink Inside Out:
 Fellengi-Sunter Model: 
 Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
 
 
-Deep Learning:
+4. Deep Learning:
 Hands-On:
 https://www.udemy.com/course/pytorch-for-deep-learning/
 https://www.udemy.com/course/pytorch-deep-learning/
@@ -326,7 +327,7 @@ Deep Learning Application2:
 Conversation AI:
 Text2SQL:
 
-LargeLanguageModels
+5. LargeLanguageModels
 Hands-on:
 LLM Application Through Production
 LLM Foundation Models From Ground Up
@@ -335,7 +336,7 @@ https://www.udemy.com/course/data-science-transformers-nlp/
 Theory:
 Transfer Learning for NLP
 
-TimeSeriesAnalysis
+6. TimeSeriesAnalysis
 https://www.udemy.com/course/feature-engineering-for-time-series-forecasting/
 
 
