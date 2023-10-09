@@ -290,10 +290,16 @@ https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python
 https://app.datacamp.com/learn/courses/foundations-of-probability-in-python
 https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python
 https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/
+
 Theory:
 Bayesian Statistics the fun way
 Bayesian Statistics for beginners
 Doing bayesian Data Analysis
+
+Usecase: Entity Resolution:
+Understand Splink Inside Out:
+Fellengi-Sunter Model: 
+Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
 
 2. Machine Learning(Probabilistic and Advanced)
 Hands-on:
@@ -304,10 +310,7 @@ https://www.udemy.com/course/machine-learning-with-imbalanced-data/
 Theory:
 Probabilistic Machine Learning: Murphy
 
-3. Entity Resolution:
-Understand Splink Inside Out:
-Fellengi-Sunter Model: 
-Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
+
 
 
 4. Deep Learning:
