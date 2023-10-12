@@ -314,10 +314,14 @@ Probabilistic Machine Learning: Murphy
 
 3. Deep Learning:
 Hands-On:
-https://www.udemy.com/course/pytorch-for-deep-learning/
-https://www.udemy.com/course/pytorch-deep-learning/
+https://www.udemy.com/course/pytorch-for-deep-learning/   -- 52hrs
+https://www.udemy.com/course/pytorch-deep-learning/   -- 24.5hrs
+https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
+LLM Foundation Models From Ground Up(edx)
+LLM Application Through Production(edx)
 Theory:
 Deep Learning - John D Kelleher
+Transfer Learning for NLP
 
 Deep Learning Application1:
 Entity Resolution
@@ -328,14 +332,8 @@ Deep Learning Application2:
 Conversation AI:
 Text2SQL:
 
-5. LargeLanguageModels
-Hands-on:
-LLM Application Through Production
-LLM Foundation Models From Ground Up
-https://www.udemy.com/course/data-science-transformers-nlp/
 
-Theory:
-Transfer Learning for NLP
+
 
 6. Incremental Connected Components:
 Building incremental connected components algorithm. 
