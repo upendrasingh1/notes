@@ -201,6 +201,9 @@ https://github.com/henrikbulldog/spark.org.anonymizer
 
 https://medium.com/globant/how-to-solve-a-large-number-of-small-files-problem-in-spark-21f819eb36d3
 
+Broadcast Join Performance Improvements
+https://medium.com/@xuanzou89/spark-join-performance-605b431ad254
+
 https://richardstartin.github.io/posts/tuning-spark-back-pressure-by-simulation
 https://blog.developer.adobe.com/how-adobe-does-millions-of-records-per-second-using-apache-spark-optimizations-part-1-99f7e3432caa
 
