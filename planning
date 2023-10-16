@@ -333,9 +333,7 @@ Conversation AI:
 Text2SQL:
 
 
-
-
-6. Incremental Connected Components:
+4. Incremental Connected Components:
 Building incremental connected components algorithm. 
 Graphx, Scala, WCC
 
