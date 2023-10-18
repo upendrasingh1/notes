@@ -330,8 +330,9 @@ Extend: https://github.com/megagonlabs/ditto
 https://github.com/qcri/DeepBlocker/tree/main
 
 Deep Learning Application2:
-Conversation AI:
-Text2SQL:
+EnglishSDK: https://github.com/pyspark-ai/pyspark-ai
+(Objective: use lamma2 model to run the API and understand the whole stack inside out)
+Usecase: Using text query on top Profile Data On Data lake
 
 
 4. Incremental Connected Components:
