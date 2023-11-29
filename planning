@@ -330,6 +330,7 @@ Deep Learning Application3(must):
 https://aclanthology.org/2020.emnlp-main.560/
 https://github.com/headacheboy/IGSQL
 
+4. LargeLanguageModels
 Transfer Learning for NLP
 https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
 LLM Foundation Models From Ground Up(edx) Done
@@ -342,7 +343,7 @@ https://github.com/jmorganca/ollama
 Usecase: Using text query on top Profile Data On Data lake
 
 
-4. Incremental Connected Components:
+5. Incremental Connected Components:
 Building incremental connected components algorithm. 
 Graphx, Scala, WCC
 
