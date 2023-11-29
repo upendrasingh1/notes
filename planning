@@ -316,18 +316,24 @@ Probabilistic Machine Learning: Murphy
 Hands-On:
 https://www.udemy.com/course/pytorch-for-deep-learning/   -- 52hrs
 https://www.udemy.com/course/pytorch-deep-learning/   -- 24.5hrs
-https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
-LLM Foundation Models From Ground Up(edx) Done
-LLM Application Through Production(edx) Done
+
 Theory:
 https://medium.com/swlh/an-intuitive-introduction-to-tensors-9f680314de0c
 Deep Learning - John D Kelleher
-Transfer Learning for NLP
 
 Deep Learning Application1(Optional):
 Entity Resolution
 Extend: https://github.com/megagonlabs/ditto
 https://github.com/qcri/DeepBlocker/tree/main
+
+Deep Learning Application3(must):
+https://aclanthology.org/2020.emnlp-main.560/
+https://github.com/headacheboy/IGSQL
+
+Transfer Learning for NLP
+https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
+LLM Foundation Models From Ground Up(edx) Done
+LLM Application Through Production(edx) Done
 
 Deep Learning Application2(must):
 EnglishSDK: https://github.com/pyspark-ai/pyspark-ai
