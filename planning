@@ -331,8 +331,13 @@ https://aclanthology.org/2020.emnlp-main.560/
 https://github.com/headacheboy/IGSQL
 
 4. LargeLanguageModels
-Natural Language Processing with Transformers, Revised Edition(Book)
-Transfer Learning for NLP(Book)
+Theory:
+1. Natural Language Processing with Transformers, Revised Edition(Book)
+2. Transfer Learning for NLP(Book)
+3. Transformers and Attention Theory(Udemy section of below course)
+4. Implement Transformers from Scratch(Udemy section of below course)
+
+Hands-On:
 https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
 LLM Foundation Models From Ground Up(edx) Done
 LLM Application Through Production(edx) Done
