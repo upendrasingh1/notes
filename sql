@@ -10,3 +10,6 @@ https://towardsdatascience.com/how-to-set-up-a-foreign-data-wrapper-in-postgresq
 https://github.com/sorrell/age-compose
 
 https://pauloxnet.medium.com/full-text-search-in-django-with-postgresql-4e3584dee4ae
+
+Advanced SQL:
+  https://www.youtube.com/playlist?list=PL1XF9qjV8kH12PTd1WfsKeUQU6e83ldfc
