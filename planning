@@ -284,7 +284,7 @@ Deep Study(Morning):
 Planning 3/9/2023:
 
 Learning Streams:
-1. Statistics:(Daily One Section)
+1. Statistics:(1 section each day, 95 sections)
 Hands-On:
 https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python(4 hrs, 14 section)
 https://app.datacamp.com/learn/courses/foundations-of-probability-in-python(5 hrs, 15 section)
@@ -304,7 +304,7 @@ Fellengi-Sunter Model:
 Splink on Steroids with Hyperopt: https://github.com/databricks-industry-solutions/auto-data-linkage
 
 2. Machine Learning(Probabilistic and Advanced)
-Hands-on:
+Hands-on:(2 section each day, 172 sections)
 https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/(10 hrs, 29 sections of 20 min each)
 https://www.udemy.com/course/feature-selection-for-machine-learning/(5.50 hrs, 18 sections of 20 min each)
 https://www.udemy.com/course/feature-engineering-for-machine-learning/(13.44 hrs, 41 sections of 20 min each)
@@ -315,7 +315,7 @@ Fundamentals of Machine Learning for Predictive Analytics - Kindle
 Probabilistic Machine Learning: Murphy
 
 3. Deep Learning:
-Hands-On:
+Hands-On:(2 section each day, 155 sections)
 https://www.udemy.com/course/pytorch-for-deep-learning/   -- 52hr, 105 sections of 30 mins each
 https://www.udemy.com/course/pytorch-deep-learning/   -- 24.5hrs, 50 sections of 30 min each
 
@@ -339,7 +339,7 @@ Theory:
 3. Transformers and Attention Theory(Udemy section of below course)
 4. Implement Transformers from Scratch(Udemy section of below course)
 
-Hands-On:(1 section each day)
+Hands-On:(1 section each day, 111 sections)
 LLM Foundation Models From Ground Up(edx) Done
 Module 1(7 sections)
 https://www.udemy.com/course/data-science-transformers-nlp/
