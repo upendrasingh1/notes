@@ -339,10 +339,28 @@ Theory:
 3. Transformers and Attention Theory(Udemy section of below course)
 4. Implement Transformers from Scratch(Udemy section of below course)
 
-Hands-On:
-https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs
+Hands-On:(1 section each day)
 LLM Foundation Models From Ground Up(edx) Done
+Module 1(7 sections)
+https://www.udemy.com/course/data-science-transformers-nlp/
+Transformers and Attention Theory Advanced(6 sections of 20 mins each)
+Implement Transformers from Scratch(6 sections of 20 mins each)
+Module 2(7 sections)
+Module 3(7 sections)
 LLM Application Through Production(edx) Done
+Module 1(8 sections)
+Module 2(7 sections)
+Module 3(6 sections)
+Module 4(12 sections)
+Module 5(6 sections)
+Module 6(6 sections)
+https://www.udemy.com/course/data-science-transformers-nlp/ -- 18hrs (33 sections of 20 min each)
+Beginners Corner
+NER + PoS Tagging
+Seq2Seq + Neural Machine Translation
+Questions + Answering
+
+
 
 Deep Learning Application2(must):
 EnglishSDK: https://github.com/pyspark-ai/pyspark-ai
