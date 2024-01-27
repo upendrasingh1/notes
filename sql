@@ -15,3 +15,5 @@ Advanced SQL:
   https://www.youtube.com/playlist?list=PL1XF9qjV8kH12PTd1WfsKeUQU6e83ldfc
 
 https://www.freecodecamp.org/news/machine-learning-directly-in-sql/
+
+https://bytepawn.com/entropy-in-data-science.html
