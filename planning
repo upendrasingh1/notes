@@ -327,19 +327,8 @@ Fundamentals of Machine Learning for Predictive Analytics - Kindle
 Probabilistic Machine Learning: Murphy
 
 3. Deep Learning:
-https://app.datacamp.com/learn/skill-tracks/deep-learning-with-pytorch-in-python
-https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
-https://app.datacamp.com/learn/skill-tracks/openai-fundamentals
-https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
-
 
 Hands-On:(2 section each day, 167 sections)
-https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
-https://app.datacamp.com/learn/skill-tracks/chatgpt-fundamentals
-https://app.datacamp.com/learn/skill-tracks/openai-fundamentals
-https://app.datacamp.com/learn/courses/working-with-hugging-face
-https://app.datacamp.com/learn/courses/introduction-to-embeddings-with-the-openai-api
-https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
 https://www.udemy.com/course/scientific-computing-with-numpy/ -- 6hr, 12 sections of 30 min each
 https://www.udemy.com/course/pytorch-for-deep-learning/   -- 52hr, 105 sections of 30 mins each
 https://www.udemy.com/course/pytorch-deep-learning/   -- 24.5hrs, 50 sections of 30 min each
@@ -365,6 +354,14 @@ Theory:
 4. Implement Transformers from Scratch(Udemy section of below course)
 
 Hands-On:(1 section each day, 111 sections)
+https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
+https://app.datacamp.com/learn/skill-tracks/chatgpt-fundamentals
+https://app.datacamp.com/learn/skill-tracks/openai-fundamentals
+https://app.datacamp.com/learn/courses/working-with-hugging-face
+https://app.datacamp.com/learn/courses/introduction-to-embeddings-with-the-openai-api
+https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
+https://www.udemy.com/course/langchain-with-python-bootcamp
+
 LLM Foundation Models From Ground Up(edx) Done
 Module 1(7 sections)
 https://www.udemy.com/course/data-science-transformers-nlp/
@@ -386,8 +383,8 @@ Seq2Seq + Neural Machine Translation
 Questions + Answering
 
 
-
 Deep Learning Application2(must):
+
 EnglishSDK: https://github.com/pyspark-ai/pyspark-ai
 (Objective: use lamma2 model to run the API and understand the whole stack inside out)
 https://github.com/jmorganca/ollama
