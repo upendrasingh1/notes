@@ -407,11 +407,13 @@ Design:(30 mins)
 
 Design Rounds:
   MLExpert(Algoexpert)
+  https://learning.oreilly.com/library/view/designing-machine-learning
+  https://learning.oreilly.com/library/view/implementing-mlops-in
   https://www.educative.io/courses/machine-learning-system-design
   https://www.algoexpert.io/machine-learning/design-questions
-  MLEngineering
-  MLLOPS
-  LLMOPS
+  MLEngineering: Designing Machine Learning Systems(Book), Machine Learning Engineering in Action(Book)
+  MLLOPS: Implementing MLOps in the Enterprise
+  LLMOPS: Large Language Models: Application through Production(Module 6)
   
   SystemExpert(Algoexpert)
   https://www.educative.io/path/scalability-system-design
