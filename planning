@@ -404,36 +404,37 @@ Graphx, Scala, WCC
 Planning for the interviews in April 2024:
 
 Design:(30 mins)
-MachineLearning(Interview Point of View):
-Data Science From Scratch Edition 2: Oriely
-Deep Learning From Scratch: Oriely
 
-MLExpert(Algoexpert)
-https://www.educative.io/courses/machine-learning-system-design
-
-SystemExpert(Algoexpert)
-https://www.educative.io/path/scalability-system-design
-https://www.educative.io/path/deep-dive-into-system-design-interview
+Design Rounds:
+  MLExpert(Algoexpert)
+  https://www.educative.io/courses/machine-learning-system-design
+  MLEngineering
+  MLLOPS
+  LLMOPS
+  
+  SystemExpert(Algoexpert)
+  https://www.educative.io/path/scalability-system-design
+  https://www.educative.io/path/deep-dive-into-system-design-interview
 
 Programming Rounds:(Algoexpert/Educative)(45 mins)
-Python Programming(4 subsection everyday, one from each):
-  Functional(144 subsection)
-  Iterables, Generators(114 subsection)
-  Dict, Set, JSons(80 subsection)
-  OOps(163 subsection)
-Python Programming Round(1 problem per day)
-   https://www.educative.io/path/ace-python-coding-interview
+
+  Python Programming(4 subsection everyday, one from each):
+    Functional(144 subsection)
+    Iterables, Generators(114 subsection)
+    Dict, Set, JSons(80 subsection)
+    OOps(163 subsection)
+  
+  Python Programming Round(1 problem per day)
+     https://www.educative.io/path/ace-python-coding-interview
+
 ML Programming Rounds
    Data Science from scratch 2nd edition, Oriely(complete)
+   Deep Learning From Scratch: Oriely
    https://www.algoexpert.io/machine-learning/coding-questions
 
 
 
-Prompt Engineering Learning:
-Tracks:
-https://app.datacamp.com/learn/skill-tracks/deep-learning-with-pytorch-in-python
-https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
-https://app.datacamp.com/learn/skill-tracks/openai-fundamentals
+
 
 
 
