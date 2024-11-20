@@ -19,3 +19,5 @@ https://www.freecodecamp.org/news/machine-learning-directly-in-sql/
 https://bytepawn.com/entropy-in-data-science.html
 
 https://medium.com/@priyankacheruku2016/proportional-stratified-downsampling-in-sql-517b4aa47d93
+
+https://github.com/JDBurnZ/postgresql-anyarray/tree/master
