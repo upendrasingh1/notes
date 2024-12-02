@@ -23,3 +23,5 @@ https://medium.com/@priyankacheruku2016/proportional-stratified-downsampling-in-
 https://github.com/JDBurnZ/postgresql-anyarray/tree/master
 
 https://medium.com/hootsuite-engineering/recursively-merging-jsonb-in-postgresql-efd787c9fad7
+
+https://medium.com/@suffyan.asad1/an-introduction-to-working-with-json-data-in-postgresql-730aa889c5d3
