@@ -21,3 +21,5 @@ https://bytepawn.com/entropy-in-data-science.html
 https://medium.com/@priyankacheruku2016/proportional-stratified-downsampling-in-sql-517b4aa47d93
 
 https://github.com/JDBurnZ/postgresql-anyarray/tree/master
+
+https://medium.com/hootsuite-engineering/recursively-merging-jsonb-in-postgresql-efd787c9fad7
