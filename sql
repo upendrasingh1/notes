@@ -27,3 +27,4 @@ https://medium.com/hootsuite-engineering/recursively-merging-jsonb-in-postgresql
 https://medium.com/@suffyan.asad1/an-introduction-to-working-with-json-data-in-postgresql-730aa889c5d3
 
 https://lucidar.me/en/web-dev/levenshtein-distance-in-mysql/
+https://gist.github.com/Kovah/df90d336478a47d869b9683766cff718https://gist.github.com/Kovah/df90d336478a47d869b9683766cff718
