@@ -28,3 +28,5 @@ https://medium.com/analytics-vidhya/running-go-code-from-python-a65b3ae34a2d
 https://github.com/andreiavrammsd/cgo-examples/blob/master/main.go
 
 https://medium.com/learning-the-go-programming-language/calling-go-functions-from-other-languages-4c7d8bcc69bf
+
+https://last9.io/blog/using-golang-package-in-python-using-gopy/
